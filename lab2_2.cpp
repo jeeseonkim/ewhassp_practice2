@@ -1,6 +1,8 @@
 //1315019 JeeSeon Kim
 #include "lab2_2.h"
-
+/*modify March 23th, 2016!!
+to test :( 
+*/
 #define FRONT_LED_PIN 10
 #define REAR_LED_PIN 9
 #define DUTY_CYCLE 10
